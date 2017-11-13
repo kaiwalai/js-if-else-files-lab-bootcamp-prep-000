@@ -5,7 +5,7 @@ if (name==="Susan") {
   console.log("the name is correct")
 } else{
   console.log(height)
-} esle  (name=== "Joe") {
+} esle { (name=== "Joe") 
   console.log("the name is correct")
 }
 
